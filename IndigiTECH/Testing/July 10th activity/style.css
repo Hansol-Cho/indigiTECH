@@ -1,0 +1,30 @@
+body {
+  margin: 50px;
+}
+
+.logo {
+  height: 55px;
+  width: 55px;
+  background-color: black;
+  border-radius: 100px;
+}
+
+.parental-container {
+  display: flex;
+  justify-content: space-between;
+  border: solid 2px black;
+}
+
+.search,
+.hamburger {
+  height: 24px;
+  width: 24px;
+  background-color: black;
+  border-radius: 100px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
